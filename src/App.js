@@ -2,14 +2,12 @@ import React from 'react';
 import './App.css';
 import Header from './component/Header/Header';
 import Shop from './component/Shop/Shop';
-import Product from './component/product/Product';
 
 function App() {
   return (
    <div>
   <Header></Header>
   <Shop></Shop>
-  <Product></Product>
    </div> 
   );
 }

@@ -1,0 +1,19 @@
+.product{
+    display:flex;
+    margin-right: 5px;
+    margin-top: 5px;
+    
+}
+.product-img{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.product-detail{
+    color:blue;
+}
+.main-button{
+    width:150px;
+    height:30px;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
